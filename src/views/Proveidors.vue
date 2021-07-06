@@ -1,5 +1,5 @@
 <template>
-  <div class="proveidors mt-5">
+  <div class="proveidors">
     <h1>Proveïdors page</h1>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="clients mt-5">
+  <div class="clients">
         <h1>llista clients</h1>
           <ul v-for="(client, index) in clientslist" :key="index">
             <li>

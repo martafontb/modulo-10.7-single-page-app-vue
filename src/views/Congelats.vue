@@ -1,5 +1,5 @@
 <template>
-  <div class="botiga mt-5">
+  <div class="congelats">
     <h1>Congelats page</h1>
   </div>
 </template>
